@@ -1,18 +1,13 @@
 // Program name
-Program ����1;
-
-{A function is given. Calculate the value of the
-f(x,n) function if x ranges from 0.6 to 1.1 and has
-an increment of 0.1 and n ranges from 11 to 15 with
-an increment of 1.
+Program Ëàáà1;
 
 // Determining the Console Program Type
 {$APPTYPE CONSOLE }
-
+швддададаа
 // Importing libraries
 Uses
   System.SysUtils;
-
+поменяла
 // Variable declaration section
 Var
   X: real;
