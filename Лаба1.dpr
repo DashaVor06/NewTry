@@ -3,7 +3,7 @@ Program Ëàáà1;
 
 // Determining the Console Program Type
 {$APPTYPE CONSOLE }
-
+швддададаа
 // Importing libraries
 Uses
   System.SysUtils;
