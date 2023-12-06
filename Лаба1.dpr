@@ -7,7 +7,7 @@ Program Ëàáà1;
 // Importing libraries
 Uses
   System.SysUtils;
-толототодтлдт
+поменяла
 // Variable declaration section
 Var
   X: real;
