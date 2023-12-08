@@ -1,10 +1,10 @@
-program Hometask12деление;
+program Hometask12РґРµР»РµРЅРёРµ;
 
 {$APPTYPE CONSOLE}
 
 uses
   System.SysUtils;
-
+// interesting
 var
   n, del, d, pr: integer;
 
@@ -28,4 +28,3 @@ begin
 
   readln;
 end.
-
